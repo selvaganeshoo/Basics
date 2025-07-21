@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class cmp_two_nums
+public class ex_no_1_cmp
 {
 	public static void main(String[] args)
 	{

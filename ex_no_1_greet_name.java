@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class greet_name
+public class ex_no_1_greet_name
 {
 	public static void main(String args[])
 	{
